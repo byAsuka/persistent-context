@@ -1,0 +1,18 @@
+{
+  "example": true,
+  "note": "Illustrative post-approval state; not an executed transaction.",
+  "proposal_id": "DEMO-PP-008",
+  "transaction_id": "DEMO-TX-008",
+  "illustrated_authorization": "User approved only the calibration status update.",
+  "target_state": {
+    "task_id": "camera-calibration",
+    "status": "completed",
+    "evidence_source": "demo-note-08"
+  },
+  "illustrated_readback": {
+    "target_matches_delta": true,
+    "transaction_receipt_matches": true,
+    "data_revision": 8
+  },
+  "actual_write_performed_by_this_repository": false
+}

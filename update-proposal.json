@@ -1,0 +1,19 @@
+{
+  "example": true,
+  "proposal_id": "DEMO-PP-008",
+  "status": "draft",
+  "target": "Now.md / camera-calibration",
+  "expected_revision": 7,
+  "evidence": {
+    "source": "demo-note-08",
+    "label": "User-Confirmed State",
+    "claim": "Calibration was completed and checked."
+  },
+  "delta": {
+    "field": "status",
+    "before": "in_progress",
+    "after": "completed"
+  },
+  "authorization": null,
+  "write_performed": false
+}

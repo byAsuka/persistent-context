@@ -1,0 +1,7 @@
+{
+  "example": true,
+  "data_revision": 7,
+  "last_transaction_id": "DEMO-TX-007",
+  "pending_proposal_count": 0,
+  "recovery_required": false
+}
